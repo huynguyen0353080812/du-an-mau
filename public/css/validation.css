@@ -1,0 +1,130 @@
+
+/*  */
+/* .content{
+    width: 500px;
+    height: 600px;
+    margin: auto;
+} */
+.chu{
+    font-size: 20px;
+}
+/* danh ky */
+h2{
+    margin-top: 20px;
+}
+.the{
+    width: 500px;
+    height: 40px;
+    border: 1px solid rgb(163, 156, 156);
+    border-radius: 5px;
+    flex-flow: row-reverse;
+    align-items: center;
+
+  
+}
+/* .hometow{
+    border: 1px solid rgb(163, 156, 156);
+    width: 505px;
+    border-radius: 5px;
+} */
+.block{
+    width: 500px;
+    height: 40px;
+    border: 1px solid rgb(163, 156, 156);
+    border-radius: 5px;
+    display: flex;
+    position: relative;
+}
+.chon{
+    margin-top: 10px;
+    margin-left: 25px
+ }
+
+ label{
+    margin-top: 8px;
+    margin-left: 4px;
+}
+.facebook{
+    width: 100px;
+    background: rgb(15, 104, 207);
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.google{
+    width: 100px;
+    background: rgb(190, 128, 12);
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    border-radius: 5px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.tiwe{
+    width: 100px;
+    background: rgb(11, 194, 207);
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    border-radius: 5px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.facebook:hover{
+    transform: translateY(-5px);
+}
+.google:hover{
+    transform: translateY(-5px);
+}
+.tiwe:hover{
+    transform: translateY(-5px);
+}
+.instagram:hover{
+    transform: translateY(-5px);
+}
+.instagram{
+    width: 100px;
+    background: rgb(12, 12, 12);
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    border-radius: 5px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.or{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    /* margin-left: 0%; */
+}
+.hoac{
+    display: flex;
+    justify-content: center;
+}
+.wrapper{
+    background: #f5f5f5;
+}
+.valuedate{
+    display: none;
+}
+.menu{
+    display: none
+}
+.con{
+    display: none;
+}
+#search-box{
+    display: none;
+}
