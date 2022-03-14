@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="http://localhost:81/Duanmau/public/fontawesome/css/all.css">
     <link rel="stylesheet" href="http://localhost:81/Duanmau/public/css/styles.css">
+    <link rel="stylesheet" href="http://localhost:81/Duanmau/public/fontawesome-free-6.0.0/css/all.css">
     <script src="http://localhost:81/Duanmau/public/resources/ckeditor/ckeditor.js"></script>
     <script src="validator.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     
@@ -30,7 +31,7 @@
             <ul>
                 <li>
                     <a href="Dashboard">
-                        <span class="icon"><i class="fas fa-globe-americas"></i></span>
+                        <span class="icon"><i class="fa-solid fa-gift"></i></span>
                         <span class="title">Dashboard</span>
                     </a>
                 </li>
